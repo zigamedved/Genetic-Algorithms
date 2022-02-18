@@ -5,4 +5,3 @@ Goal:
 - In this mathematical game, you are given a set of numbers, a set of mathematical operators and a target number. 
 - Your goal is then to arrange the numbers and mathematical operators in such manner that the result of the equation is as close or even identical as the target number.
 
-If you want the actual code of the project, feel free to contact me:)
